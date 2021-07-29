@@ -1,7 +1,7 @@
 # Welcome to the DevOps Squad!
 
 <p align="center">
-<img src="files/logo/logo.png">
+<img src="files/logo/logo.jpeg">
 </p>
 
 You have been brought into a scenario where our entire DevOps team just vanished over night. ~~We suspect it could be an alien abduction, since some of our engineers brought up UFO sightings in the stand-ups last week~~ (_Needs peer review_).
@@ -28,7 +28,7 @@ Below is the block diagram of how the pipeline should look like. _The blocks in 
 
 
 <p align="center">
-<img src="files/Flow.jpeg">
+<img src="files/Flow.jpg">
 </p>
 
 
