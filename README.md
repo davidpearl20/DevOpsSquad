@@ -28,7 +28,7 @@ Below is the block diagram of how the pipeline should look like. _The blocks in 
 
 
 <p align="center">
-<img src="files/Flow.jpg">
+<img src="files/Flow.jpeg">
 </p>
 
 
